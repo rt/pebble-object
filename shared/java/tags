@@ -1,0 +1,146 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+APP_CONTROL	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String APP_CONTROL = "theApp.theControlApp.libs.standard.types.appControl";$/;"	f	class:TypeReferences
+APP_CONTROL_BASE	src/com/pebblefields/shared/TypeReferences.java	/^		public final static String APP_CONTROL_BASE = "theApp.theControlApp.libs.standard.controls.appControlBase";$/;"	f	class:TypeReferences.ControlBase
+APP_INDEX_ITEM	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String APP_INDEX_ITEM = "theApp.theControlApp.libs.standard.types.appIndexItem";$/;"	f	class:TypeReferences
+ARRAY	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String ARRAY = "theApp.theControlApp.libs.standard.types.array";$/;"	f	class:TypeReferences
+ARRAY_CONTROL_BASE	src/com/pebblefields/shared/TypeReferences.java	/^		public final static String ARRAY_CONTROL_BASE = "theApp.theControlApp.libs.standard.controls.arrayControlBase";$/;"	f	class:TypeReferences.ControlBase
+ARRAY_DISPLAY_CONTROL_BASE	src/com/pebblefields/shared/TypeReferences.java	/^		public final static String ARRAY_DISPLAY_CONTROL_BASE = "theApp.theControlApp.libs.standard.controls.arrayDisplayControlBase";$/;"	f	class:TypeReferences.ControlBase
+ARRAY_DISPLAY_SINGLE_CONTROL_BASE	src/com/pebblefields/shared/TypeReferences.java	/^		public final static String ARRAY_DISPLAY_SINGLE_CONTROL_BASE = "theApp.theControlApp.libs.standard.controls.arrayDisplaySingleControlBase";$/;"	f	class:TypeReferences.ControlBase
+ARRAY_DISPLAY_TABLE_BASE	src/com/pebblefields/shared/TypeReferences.java	/^		public final static String ARRAY_DISPLAY_TABLE_BASE = "theApp.theControlApp.libs.standard.controls.arrayDisplayTableBase";$/;"	f	class:TypeReferences.ControlBase
+ARRAY_PAGE	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String ARRAY_PAGE = "theApp.theControlApp.libs.standard.types.arrayPage";$/;"	f	class:TypeReferences
+Authorizer	src/com/pebblefields/shared/Authorizer.java	/^	public Authorizer() {$/;"	m	class:Authorizer
+Authorizer	src/com/pebblefields/shared/Authorizer.java	/^public abstract class Authorizer {$/;"	c
+BASIC_TYPE	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String BASIC_TYPE = "theApp.theControlApp.libs.standard.types.basicType";$/;"	f	class:TypeReferences
+BOOL	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String BOOL = "theApp.theControlApp.libs.standard.types.bool";$/;"	f	class:TypeReferences
+COMMAND	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String COMMAND = "theApp.theControlApp.libs.standard.types.command";$/;"	f	class:TypeReferences
+COMPRESSED_COLLECTION_ATTR	src/com/pebblefields/shared/TypeReferences.java	/^	public static String COMPRESSED_COLLECTION_ATTR = "compressedCollection";$/;"	f	class:TypeReferences
+CONTROL	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String CONTROL = "theApp.theControlApp.libs.standard.types.control";$/;"	f	class:TypeReferences
+CONTROL_BASE	src/com/pebblefields/shared/TypeReferences.java	/^		public final static String CONTROL_BASE = "theApp.theControlApp.libs.standard.controls.controlBase";$/;"	f	class:TypeReferences.ControlBase
+ControlBase	src/com/pebblefields/shared/TypeReferences.java	/^	public final static class ControlBase {$/;"	c	class:TypeReferences
+DATE	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String DATE = "theApp.theControlApp.libs.standard.types.date";$/;"	f	class:TypeReferences
+DOC_TYPE	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String DOC_TYPE = "theApp.theControlApp.libs.standard.types.docType";$/;"	f	class:TypeReferences
+DocModel	src/com/pebblefields/shared/DocModel.java	/^public class DocModel extends Pebble implements Serializable{$/;"	c
+FIELD	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String FIELD = "theApp.theControlApp.libs.standard.types.typeField";$/;"	f	class:TypeReferences
+FIELD_CONTROL_BASE	src/com/pebblefields/shared/TypeReferences.java	/^		public final static String FIELD_CONTROL_BASE = "theApp.theControlApp.libs.standard.controls.fieldControlBase";$/;"	f	class:TypeReferences.ControlBase
+FUNCTION_DEF	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String FUNCTION_DEF = "theApp.theControlApp.libs.standard.types.functionDef";$/;"	f	class:TypeReferences
+HandlesAuthorizationImpl_Dummy	src/com/pebblefields/shared/HandlesAuthorizationImpl_Dummy.java	/^public class HandlesAuthorizationImpl_Dummy extends Authorizer{$/;"	c
+HandlesDataEvents	src/com/pebblefields/shared/interfaces/HandlesDataEvents.java	/^public interface HandlesDataEvents {$/;"	i
+HandlesLogging	src/com/pebblefields/shared/interfaces/HandlesLogging.java	/^public interface HandlesLogging {$/;"	i
+INDEX_ITEM	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String INDEX_ITEM = "theApp.theControlApp.libs.standard.types.indexItem";$/;"	f	class:TypeReferences
+IServerData	src/com/pebblefields/shared/interfaces/IServerData.java	/^public interface IServerData {$/;"	i
+ItemType	src/com/pebblefields/shared/ItemType.java	/^	public ItemType(String path) {$/;"	m	class:ItemType
+ItemType	src/com/pebblefields/shared/ItemType.java	/^	public ItemType(String path, Pebble config) {$/;"	m	class:ItemType
+ItemType	src/com/pebblefields/shared/ItemType.java	/^public class ItemType extends Pebble implements Serializable{$/;"	c
+Logger	src/com/pebblefields/shared/Logger.java	/^public class Logger {	$/;"	c
+NUMBER	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String NUMBER = "theApp.theControlApp.libs.standard.types.number";$/;"	f	class:TypeReferences
+PathAnalyzer	src/com/pebblefields/shared/PathAnalyzer.java	/^	public PathAnalyzer(String appPath) {$/;"	m	class:PathAnalyzer
+PathAnalyzer	src/com/pebblefields/shared/PathAnalyzer.java	/^public class PathAnalyzer {$/;"	c
+PebbleUtils	src/com/pebblefields/shared/PebbleUtils.java	/^public class PebbleUtils {$/;"	c
+REFERENCE	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String REFERENCE = "theApp.theControlApp.libs.standard.types.itemRelRef";$/;"	f	class:TypeReferences
+REFERENCE_ARRAY_CONTROL_BASE	src/com/pebblefields/shared/TypeReferences.java	/^		public final static String REFERENCE_ARRAY_CONTROL_BASE = "theApp.theControlApp.libs.standard.controls.referenceArrayControlBase";$/;"	f	class:TypeReferences.ControlBase
+ServerControl	src/com/pebblefields/shared/ServerControl.java	/^	public ServerControl(Pebble dm) {$/;"	m	class:ServerControl
+ServerControl	src/com/pebblefields/shared/ServerControl.java	/^public class ServerControl extends Pebble implements Serializable{$/;"	c
+ServerDataImpl_Xml	src/com/pebblefields/shared/ServerDataImpl_Xml.java	/^	public ServerDataImpl_Xml(Pebble ds) {$/;"	m	class:ServerDataImpl_Xml
+ServerDataImpl_Xml	src/com/pebblefields/shared/ServerDataImpl_Xml.java	/^	public ServerDataImpl_Xml(String path) {$/;"	m	class:ServerDataImpl_Xml
+ServerDataImpl_Xml	src/com/pebblefields/shared/ServerDataImpl_Xml.java	/^public class ServerDataImpl_Xml implements IServerData{$/;"	c
+TEXT	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String TEXT = "theApp.theControlApp.libs.standard.types.text";$/;"	f	class:TypeReferences
+THE_CONTROL_ITEM	src/com/pebblefields/shared/TypeReferences.java	/^	public static final String THE_CONTROL_ITEM = "theControlItem";$/;"	f	class:TypeReferences
+TypeReferences	src/com/pebblefields/shared/TypeReferences.java	/^public final class TypeReferences {$/;"	c
+UNAUTHORIZED_USER	src/com/pebblefields/shared/Authorizer.java	/^	public static final String UNAUTHORIZED_USER = "-1";$/;"	f	class:Authorizer
+WIN	src/com/pebblefields/shared/TypeReferences.java	/^	public final static String WIN = "theApp.theControlApp.libs.standard.types.win";$/;"	f	class:TypeReferences
+_getInnerType	src/com/pebblefields/shared/ItemType.java	/^    private Pebble _getInnerType(String relPath, Pebble instanceRefs) {$/;"	m	class:ItemType	file:
+addItem	src/com/pebblefields/shared/ServerControl.java	/^    private void addItem(Pebble obj) {$/;"	m	class:ServerControl	file:
+clear	src/com/pebblefields/shared/interfaces/HandlesLogging.java	/^	void clear ();$/;"	m	interface:HandlesLogging
+com.pebblefields.shared	src/com/pebblefields/shared/Authorizer.java	/^package com.pebblefields.shared;$/;"	p
+com.pebblefields.shared	src/com/pebblefields/shared/DocModel.java	/^package com.pebblefields.shared;$/;"	p
+com.pebblefields.shared	src/com/pebblefields/shared/HandlesAuthorizationImpl_Dummy.java	/^package com.pebblefields.shared;$/;"	p
+com.pebblefields.shared	src/com/pebblefields/shared/ItemType.java	/^package com.pebblefields.shared;$/;"	p
+com.pebblefields.shared	src/com/pebblefields/shared/Logger.java	/^package com.pebblefields.shared;$/;"	p
+com.pebblefields.shared	src/com/pebblefields/shared/PathAnalyzer.java	/^package com.pebblefields.shared;$/;"	p
+com.pebblefields.shared	src/com/pebblefields/shared/PebbleUtils.java	/^package com.pebblefields.shared;$/;"	p
+com.pebblefields.shared	src/com/pebblefields/shared/ServerControl.java	/^package com.pebblefields.shared;$/;"	p
+com.pebblefields.shared	src/com/pebblefields/shared/ServerDataImpl_Xml.java	/^package com.pebblefields.shared;$/;"	p
+com.pebblefields.shared	src/com/pebblefields/shared/TypeReferences.java	/^package com.pebblefields.shared;$/;"	p
+com.pebblefields.shared.interfaces	src/com/pebblefields/shared/interfaces/HandlesDataEvents.java	/^package com.pebblefields.shared.interfaces;$/;"	p
+com.pebblefields.shared.interfaces	src/com/pebblefields/shared/interfaces/HandlesLogging.java	/^package com.pebblefields.shared.interfaces;$/;"	p
+com.pebblefields.shared.interfaces	src/com/pebblefields/shared/interfaces/IServerData.java	/^package com.pebblefields.shared.interfaces;$/;"	p
+comparePath	src/com/pebblefields/shared/PathAnalyzer.java	/^	public static boolean comparePath(String actual, String pathMatch) {$/;"	m	class:PathAnalyzer
+config	src/com/pebblefields/shared/ItemType.java	/^	public Pebble config;$/;"	f	class:ItemType
+create	src/com/pebblefields/shared/ServerDataImpl_Xml.java	/^	public Pebble create(String collection, Pebble peb) {$/;"	m	class:ServerDataImpl_Xml
+create	src/com/pebblefields/shared/interfaces/IServerData.java	/^	Pebble create(String collection, Pebble pebble);$/;"	m	interface:IServerData
+delete	src/com/pebblefields/shared/ServerDataImpl_Xml.java	/^	public void delete(String fullContainerName, String uniqueName) {$/;"	m	class:ServerDataImpl_Xml
+delete	src/com/pebblefields/shared/interfaces/IServerData.java	/^	void delete(String collection, String uniqueName);$/;"	m	interface:IServerData
+deleteCollections	src/com/pebblefields/shared/ServerDataImpl_Xml.java	/^	public void deleteCollections(List<String> list) {$/;"	m	class:ServerDataImpl_Xml
+deleteCollections	src/com/pebblefields/shared/interfaces/IServerData.java	/^	void deleteCollections(List<String> list);$/;"	m	interface:IServerData
+deleteItem	src/com/pebblefields/shared/ServerControl.java	/^	private void deleteItem(Pebble pebble) {$/;"	m	class:ServerControl	file:
+deployment	src/com/pebblefields/shared/DocModel.java	/^	private static IServerData deployment;$/;"	f	class:DocModel	file:
+doInit	src/com/pebblefields/shared/ServerControl.java	/^	 public void doInit(Pebble obj) {$/;"	m	class:ServerControl
+doQueries	src/com/pebblefields/shared/ServerControl.java	/^	private void doQueries(Pebble pebble) {$/;"	m	class:ServerControl	file:
+doQuery	src/com/pebblefields/shared/ServerControl.java	/^	private void doQuery(Pebble obj) {$/;"	m	class:ServerControl	file:
+doQuery	src/com/pebblefields/shared/ServerDataImpl_Xml.java	/^	public List<String> doQuery(Pebble queryPeb) {$/;"	m	class:ServerDataImpl_Xml
+doQuery	src/com/pebblefields/shared/interfaces/IServerData.java	/^	List<String> doQuery(Pebble queryItem);$/;"	m	interface:IServerData
+docPaths	src/com/pebblefields/shared/PathAnalyzer.java	/^	private List<String> docPaths;					\/\/list of doc paths (non doc members are skipped), only useful for the last one$/;"	f	class:PathAnalyzer	file:
+ds	src/com/pebblefields/shared/ServerDataImpl_Xml.java	/^	private Pebble ds = new Pebble();$/;"	f	class:ServerDataImpl_Xml	file:
+executeMethod	src/com/pebblefields/shared/ServerControl.java	/^	public int executeMethod(String sp, Pebble pebble) {$/;"	m	class:ServerControl
+fieldTypes	src/com/pebblefields/shared/PathAnalyzer.java	/^	private List<Pebble> fieldTypes;    			\/\/the types as in their parent definition (field.type)$/;"	f	class:PathAnalyzer	file:
+getArrayItemDocument	src/com/pebblefields/shared/ServerControl.java	/^	private void getArrayItemDocument(Pebble obj) {$/;"	m	class:ServerControl	file:
+getDataSource	src/com/pebblefields/shared/ServerDataImpl_Xml.java	/^	public Pebble getDataSource() {$/;"	m	class:ServerDataImpl_Xml
+getDatasource	src/com/pebblefields/shared/DocModel.java	/^    public static IServerData getDatasource() {$/;"	m	class:DocModel
+getDoc	src/com/pebblefields/shared/DocModel.java	/^    public static Pebble getDoc(String fullId) {$/;"	m	class:DocModel
+getDocPaths	src/com/pebblefields/shared/PathAnalyzer.java	/^	public List<String> getDocPaths() {$/;"	m	class:PathAnalyzer
+getDocs	src/com/pebblefields/shared/ServerControl.java	/^	private String getDocs(Pebble queryItem) {$/;"	m	class:ServerControl	file:
+getField	src/com/pebblefields/shared/ItemType.java	/^    public Pebble getField(String fieldName){$/;"	m	class:ItemType
+getFields	src/com/pebblefields/shared/ItemType.java	/^	public Pebble getFields() {$/;"	m	class:ItemType
+getFields	src/com/pebblefields/shared/ServerControl.java	/^	private void getFields(Pebble obj) {$/;"	m	class:ServerControl	file:
+getFunctions	src/com/pebblefields/shared/ItemType.java	/^    public Pebble getFunctions () {$/;"	m	class:ItemType
+getFunctions	src/com/pebblefields/shared/ServerControl.java	/^	private void getFunctions(Pebble obj) {$/;"	m	class:ServerControl	file:
+getInheritMember	src/com/pebblefields/shared/ItemType.java	/^    private Pebble getInheritMember(String member) {$/;"	m	class:ItemType	file:
+getInheritMember_Docs	src/com/pebblefields/shared/ItemType.java	/^    public Pebble getInheritMember_Docs(String member) {$/;"	m	class:ItemType
+getInnerField	src/com/pebblefields/shared/ItemType.java	/^    public Pebble getInnerField(String relPath, Pebble instanceRefs) {$/;"	m	class:ItemType
+getInnerType	src/com/pebblefields/shared/ItemType.java	/^    public Pebble getInnerType(String relPath, Pebble instanceRefs) {$/;"	m	class:ItemType
+getInstanceRefs	src/com/pebblefields/shared/PebbleUtils.java	/^	 public static Pebble getInstanceRefs(Pebble item, String path) {$/;"	m	class:PebbleUtils
+getItem	src/com/pebblefields/shared/PathAnalyzer.java	/^	public Pebble getItem() {$/;"	m	class:PathAnalyzer
+getItemTypes	src/com/pebblefields/shared/PathAnalyzer.java	/^	public List<ItemType> getItemTypes() {$/;"	m	class:PathAnalyzer
+getLastDoc	src/com/pebblefields/shared/PathAnalyzer.java	/^	public Pebble getLastDoc() {$/;"	m	class:PathAnalyzer
+getLastDocPath	src/com/pebblefields/shared/PathAnalyzer.java	/^	public String getLastDocPath() {$/;"	m	class:PathAnalyzer
+getLastFieldType	src/com/pebblefields/shared/PathAnalyzer.java	/^	public Pebble getLastFieldType() {$/;"	m	class:PathAnalyzer
+getLastItemType	src/com/pebblefields/shared/PathAnalyzer.java	/^	public ItemType getLastItemType() {$/;"	m	class:PathAnalyzer
+getParentDocPath	src/com/pebblefields/shared/PathAnalyzer.java	/^	public String getParentDocPath() {$/;"	m	class:PathAnalyzer
+getParentItemType	src/com/pebblefields/shared/PathAnalyzer.java	/^	public ItemType getParentItemType() {$/;"	m	class:PathAnalyzer
+getPath	src/com/pebblefields/shared/PathAnalyzer.java	/^	public String getPath() {$/;"	m	class:PathAnalyzer
+getRelPath	src/com/pebblefields/shared/PathAnalyzer.java	/^	public String getRelPath() {$/;"	m	class:PathAnalyzer
+getRelPath	src/com/pebblefields/shared/PathAnalyzer.java	/^	public String getRelPath(String fullPath) {$/;"	m	class:PathAnalyzer
+getUserObject	src/com/pebblefields/shared/Authorizer.java	/^	public Pebble getUserObject() {$/;"	m	class:Authorizer
+handlesDataEvents	src/com/pebblefields/shared/ServerControl.java	/^	static public HandlesDataEvents handlesDataEvents;$/;"	f	class:ServerControl
+impl	src/com/pebblefields/shared/Logger.java	/^	public static HandlesLogging impl = null;$/;"	f	class:Logger
+initComponents	src/com/pebblefields/shared/PathAnalyzer.java	/^	private void initComponents() {$/;"	m	class:PathAnalyzer	file:
+isInGroup	src/com/pebblefields/shared/Authorizer.java	/^	abstract public boolean isInGroup(Pebble userGroup);$/;"	m	class:Authorizer
+isInGroup	src/com/pebblefields/shared/HandlesAuthorizationImpl_Dummy.java	/^	public boolean isInGroup(Pebble userGroup) {$/;"	m	class:HandlesAuthorizationImpl_Dummy
+itemTypes	src/com/pebblefields/shared/PathAnalyzer.java	/^	private List<ItemType> itemTypes;				\/\/the ItemType(typePath) so that getField, getAppIndex can be used$/;"	f	class:PathAnalyzer	file:
+join	src/com/pebblefields/shared/PebbleUtils.java	/^		public static String join(String[] elements, String delimitter) {$/;"	m	class:PebbleUtils
+key	src/com/pebblefields/shared/ItemType.java	/^	public String key;$/;"	f	class:ItemType
+lStrip	src/com/pebblefields/shared/PebbleUtils.java	/^		public static String lStrip(String str, String val) {$/;"	m	class:PebbleUtils
+log	src/com/pebblefields/shared/Logger.java	/^	public static void log(String level, String str) {$/;"	m	class:Logger
+log	src/com/pebblefields/shared/interfaces/HandlesLogging.java	/^	void log (String log, String message);$/;"	m	interface:HandlesLogging
+notifyAdd	src/com/pebblefields/shared/interfaces/HandlesDataEvents.java	/^	void notifyAdd(Pebble data, String path, String srcDeviceKey);$/;"	m	interface:HandlesDataEvents
+notifyDataChange	src/com/pebblefields/shared/interfaces/HandlesDataEvents.java	/^	void notifyDataChange(Pebble data, String path, String srcDeviceKey);$/;"	m	interface:HandlesDataEvents
+notifyDelete	src/com/pebblefields/shared/interfaces/HandlesDataEvents.java	/^	void notifyDelete(String path, String srcDeviceKey);$/;"	m	interface:HandlesDataEvents
+notifyUpdate	src/com/pebblefields/shared/interfaces/HandlesDataEvents.java	/^	void notifyUpdate(Pebble data, String path, String srcDeviceKey);$/;"	m	interface:HandlesDataEvents
+path	src/com/pebblefields/shared/PathAnalyzer.java	/^	private String path;$/;"	f	class:PathAnalyzer	file:
+rStrip	src/com/pebblefields/shared/PebbleUtils.java	/^		public static String rStrip(String str, String val) {$/;"	m	class:PebbleUtils
+registerDevice	src/com/pebblefields/shared/interfaces/HandlesDataEvents.java	/^	void registerDevice(String id, Pebble paths);$/;"	m	interface:HandlesDataEvents
+removeSpaces	src/com/pebblefields/shared/ServerDataImpl_Xml.java	/^	public void removeSpaces() {$/;"	m	class:ServerDataImpl_Xml
+retrieve	src/com/pebblefields/shared/ServerDataImpl_Xml.java	/^	public Pebble retrieve(String collection, String uniqueName) {$/;"	m	class:ServerDataImpl_Xml
+retrieve	src/com/pebblefields/shared/interfaces/IServerData.java	/^	Pebble retrieve(String collection, String uniqueName);$/;"	m	interface:IServerData
+setDeployment	src/com/pebblefields/shared/DocModel.java	/^    public static void setDeployment(IServerData depl) {$/;"	m	class:DocModel
+setLogger	src/com/pebblefields/shared/Logger.java	/^	public static void setLogger(HandlesLogging logger) {$/;"	m	class:Logger
+toString	src/com/pebblefields/shared/ServerDataImpl_Xml.java	/^	public String toString() {$/;"	m	class:ServerDataImpl_Xml
+update	src/com/pebblefields/shared/ServerDataImpl_Xml.java	/^	public void update(String fullContainerName, String uniqueName, Pebble doc) {$/;"	m	class:ServerDataImpl_Xml
+update	src/com/pebblefields/shared/interfaces/IServerData.java	/^	void update(String collection, String uniqueName, Pebble doc);$/;"	m	interface:IServerData
+updateItem	src/com/pebblefields/shared/ServerControl.java	/^	private void updateItem(Pebble obj) {$/;"	m	class:ServerControl	file:
+userId	src/com/pebblefields/shared/Authorizer.java	/^	protected String userId = UNAUTHORIZED_USER;$/;"	f	class:Authorizer

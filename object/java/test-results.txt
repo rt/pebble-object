@@ -1,0 +1,15 @@
+passed: got value
+passed: removed value
+passed: set markup
+passed: spaces ignored
+passed: spaces ignored array
+passed: got reference
+passed: removed reference
+passed: set 1 record
+passed: set 2 record
+passed: force name
+passed: get index
+passed: insert before
+passed: got int 2(2)
+failed: got double 2.1(2.1)
+done!

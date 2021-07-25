@@ -1,0 +1,23 @@
+{
+	"srcPath": "/Users/rtsunoda/projects/pebble-shared-javascript/",
+	"imports": ["pebble-object-javascript"],
+	"list": [
+	"src/shared.js",
+	"src/interfaces/interfaces.js",
+	"src/interfaces/IServerData.js",
+	"src/interfaces/handlesLogging.js",
+	"src/logger.js",
+	"src/authorizer.js",
+	"impls/browserLogger.js",
+	"app/buildDeployment.js",
+	"src/docModel.js",
+	"src/itemType.js",
+	"src/pathAnalyzer.js",
+	"src/pebbleFilter.js",
+	"src/pebbleUtils.js",
+	"src/serverControl.js",
+	"impls/serverDataImpl_Xml.js",
+	"src/typeReferences.js",
+	"src/deployment.js"
+		]
+}
